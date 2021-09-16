@@ -13,7 +13,7 @@ the set of Docker container changes.
 
 EXAMPLES = r"""
 - name: Update Prometheus file-based service discovery
-  epfl_si.traefik.docker_observer:
+  epfl_si.docker.docker_observer:
     name: some-cool-name  # Mandatory; will be used for both the image and the container
     volumes:
       - /srv/prometheus:/prometheus
