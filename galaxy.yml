@@ -1,6 +1,6 @@
 namespace: "epfl_si"
 name: "docker"
-version: "0.1.0"
+version: "0.1.1"
 readme: "README.md"
 authors:
     - "EPFL IDEV-FSD <idev-fsd@groupes.epfl.ch>"
@@ -8,6 +8,6 @@ license:
     - "MIT"
 tags:
     - docker
-repository: "https://github.com/epfl-si/ansible-collection-traefik"
+repository: "https://github.com/epfl-si/ansible-collection-docker"
 dependencies:
   epfl_si.actions: ">=0.1.1"
