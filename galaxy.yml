@@ -2,6 +2,7 @@ namespace: "epfl_si"
 name: "docker"
 version: "0.1.2"
 readme: "README.md"
+description: Manage “poor man's Kubernetes” setups built out of Docker
 authors:
     - "EPFL IDEV-FSD <idev-fsd@groupes.epfl.ch>"
 license:
