@@ -1,12 +1,8 @@
 # Version 0.1.x
 
-## Version 0.1.2
+## Versions 0.1.1 through 0.1.3
 
-Fix documentation - No other changes
-
-## Version 0.1.1
-
-Fix package metadata - No other changes
+Fix documentation and package metadata - No other changes
 
 ## Version 0.1.0
 
