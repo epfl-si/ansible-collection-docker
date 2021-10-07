@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Subscribe to the Docker and/or Træfik state and react with a script.
+Subscribe to the Docker state and react with a script.
 
 Invoking a `docker_observer` task causes a Docker container to be built and
 spun up on the target host (much like if you had invoked `docker_image` and
