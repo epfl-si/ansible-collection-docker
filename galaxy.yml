@@ -4,7 +4,7 @@ version: "0.1.3"
 readme: "README.md"
 description: Manage “poor man's Kubernetes” setups built out of Docker
 authors:
-    - "EPFL IDEV-FSD <idev-fsd@groupes.epfl.ch>"
+    - "EPFL ISAS-FSD <isas-fsd@groupes.epfl.ch>"
 license:
     - "MIT"
 tags:
