@@ -66,7 +66,7 @@ cd "$workdir"
   set -e -x; exec >&2   # Just being defensive
 
   cat > Dockerfile <<"H3RE_DOCKERFILE"
-FROM python:slim
+FROM python:3.11-slim
 RUN pip3 install aiodocker aiofile pyyaml atomicwrites %(userdeps)s
 RUN mkdir /app
 COPY *.py /app/
