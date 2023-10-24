@@ -1,6 +1,6 @@
 namespace: "epfl_si"
 name: "docker"
-version: "0.2.0"
+version: "0.2.2"
 readme: "README.md"
 description: Manage “poor man's Kubernetes” setups built out of Docker
 authors:
